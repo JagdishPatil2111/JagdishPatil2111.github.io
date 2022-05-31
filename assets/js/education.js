@@ -5,66 +5,51 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
+    title: "Programming for Everybody(Getting Started with Python) by University of Michigan",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://www.coursera.org/learn/python",
   },
   {
-    title: "Cryptography",
+    title: "Learn Burp Suite, the No. 1 Web Hacking Tool",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://www.udemy.com/course/burp-suite/",
   },
   {
-    title: "Machine Learning",
+    title: "Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360 by Autodesk",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://www.coursera.org/learn/mechanical-engineering-design-manufacturing",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
+    title: "Become Master in Ethical Hacking with Android(without Root)",
     cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    moocLink: "https://www.udemy.com/course/learn-network-attacks-and-prevention-through-android/",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
+    title: "Penetration Testing and Ethical Hacking",
+    cardImage: "assets/images/education-page/cybrary_logo_black.svg",
+    moocLink: "https://app.cybrary.it/browse/course/ethical-hacking-2020-12-31",
   },
   {
-    title: "Intro to React Native",
+    title: "IBM Cybersecurity Analyst Professional Certificate by IBM",
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+      "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst",
   },
   {
-    title: "NodeJS, Express and MongoDB",
+    title: "Computer Forensics Specialization by Infosec",
     cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
+    moocLink: "https://www.coursera.org/learn/digital-forensics-concepts",
   },
   {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
+    title: "Robotics: Aerial Robotics by University of Pennsylvania",
+    cardImage: "assets/images/education-page/coursera2.svg",
+    moocLink: "https://www.coursera.org/learn/robotics-flight",
   },
   {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
+    title: "Robotics: Computational Motion Planning by University of Pennsylvania",
+    cardImage: "assets/images/education-page/coursera2.svg",
     moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+      "https://www.coursera.org/learn/robotics-motion-planning",
   },
 ];
 
