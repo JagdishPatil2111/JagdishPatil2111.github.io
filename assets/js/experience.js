@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Cyber Security Intern",
+    cardImage: "assets/images/experience-page/haryana_police.png",
+    place: "Gurugram Police Cyber Security Summer Internship 2022",
+    time: "(June, 2022 - July, 2022)",
+    desp: "<li>Opportunity to learn from various experts from various domains of Cyber Security.</li> <li>Domains includes Cyber Forensics, Offensive Security, Cyber Psychology, Cyber Laws, etc.</li>",
+  },
+  {
     title: "Core Member",
     cardImage: "assets/images/experience-page/rnxg_logo.jpg",
     place: "Robotics for Next Generation(RNXG)",
