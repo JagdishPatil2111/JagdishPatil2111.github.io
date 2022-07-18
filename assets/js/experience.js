@@ -71,7 +71,7 @@ const volunteershipcards = [
     title: "TryHackMe",
     cardImage: "assets/images/experience-page/thm.jpg",
     description:
-      "Ranked in Top 15% of the global leaderboard.",
+      "Ranked in Top 11% of the global leaderboard.",
   },
   {
     title: "NahamConCTF 2022",
