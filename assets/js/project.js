@@ -29,6 +29,14 @@ const projects = [
     Previewlink: "",
     Githublink: "https://github.com/jagdishpatil2111/Car_Management_GUI",
   },
+  {
+    title: "Twitter Hashtag and Sentiment Analysis",
+    cardImage: "assets/images/project-page/twitter_senti.jpg",
+    description: "A simple command line interface(CLI) Software for Hashtag and Sentiment Analysis of tweets using Python and Natural Language Processing(NLP).",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/jagdishpatil2111/Twitter-Hashtag-Sentiment-Analysis",
+  },
 ];
 
 // function for rendering project cards data
