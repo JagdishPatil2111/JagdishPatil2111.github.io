@@ -5,6 +5,13 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Hardware Design Intern",
+    cardImage: "",
+    place: "Bharat Forge Limited",
+    time: "(January, 2023 - June, 2023)",
+    desp: "<li>Joined and worked as Electronics Hardware design intern.</li> <li>Worked on Final Year Project based on increasing operational endurance of autonomous robots/vehicles.</li>",
+  },
+  {
     title: "Cyber Security Intern",
     cardImage: "assets/images/experience-page/haryana_police.png",
     place: "Gurugram Police Cyber Security Summer Internship 2022",
