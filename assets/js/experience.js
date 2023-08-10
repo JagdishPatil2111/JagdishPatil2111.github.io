@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Hardware Design Intern",
-    cardImage: "",
+    cardImage: "assets/images/experience-page/bfl logo.png",
     place: "Bharat Forge Limited",
     time: "(January, 2023 - June, 2023)",
     desp: "<li>Joined and worked as Electronics Hardware design intern.</li> <li>Worked on Final Year Project based on increasing operational endurance of autonomous robots/vehicles.</li>",
