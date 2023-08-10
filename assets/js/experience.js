@@ -5,6 +5,12 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Graduate Engineer Trainee - Hardware Developer",
+    cardImage: "assets/images/experience-page/kssl logo.png",
+    place: "Kalyani Strategic Systems Limited",
+    time: "(August, 2023 - Present)",
+  },
+  {
     title: "Hardware Design Intern",
     cardImage: "assets/images/experience-page/bfl logo.png",
     place: "Bharat Forge Limited",
