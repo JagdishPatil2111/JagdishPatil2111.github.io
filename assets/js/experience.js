@@ -15,7 +15,7 @@ const exp = [
     cardImage: "assets/images/experience-page/bfl logo.png",
     place: "Bharat Forge Limited",
     time: "(January, 2023 - June, 2023)",
-    desp: "<li>Joined and worked as Electronics Hardware design intern.</li> <li>Worked on Final Year Project based on increasing operational endurance of autonomous robots/vehicles.</li>",
+    desp: "<li>Joined and worked as Electronics Hardware Design Intern.</li> <li>Worked on Final Year Project based on increasing operational endurance of autonomous vehicles.</li>",
   },
   {
     title: "Cyber Security Intern",
@@ -28,14 +28,14 @@ const exp = [
     title: "Core Member",
     cardImage: "assets/images/experience-page/rnxg_logo.jpg",
     place: "Robotics for Next Generation(RNXG)",
-    time: "(August, 2019 - Present)",
+    time: "(August, 2019 - May 2023)",
     desp: "<li>Participated in many robotics challenges and competitions.</li> <li>Got hands on experience in Electronics, Simulations & CAD designs and implemented in various projects.</li>",
   },
   {
     title: "Technical Team Member",
     cardImage: "assets/images/experience-page/isa_logo.jpg",
     place: "International Society of Automation(ISA)-SGGS",
-    time: "(February 2021 - Present)",
+    time: "(February 2021 - August 2021)",
     desp: "<li>Worked on FIEPER Robot, a humanoid robot meant to perform some specific tasks.</li><li>Worked on integrating the FIEPER with Virtual Reality to make it operable from any remote location.</li>",
   },
 ];
